@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Tria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraysort", "arraysort\arraysort.csproj", "{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContePule", "ContePule\ContePule.csproj", "{0A756C5B-3372-4866-8F36-A3E14AA7DE63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A756C5B-3372-4866-8F36-A3E14AA7DE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A756C5B-3372-4866-8F36-A3E14AA7DE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A756C5B-3372-4866-8F36-A3E14AA7DE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A756C5B-3372-4866-8F36-A3E14AA7DE63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
