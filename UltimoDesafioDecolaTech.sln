@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ehOMaior", "ehOMaior\ehOMaior.csproj", "{A4AF6908-FEB7-46D6-A8A2-8018319BD2D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{1155CCBF-8025-4D35-B375-F2FCF777C193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraysort", "arraysort\arraysort.csproj", "{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A4AF6908-FEB7-46D6-A8A2-8018319BD2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4AF6908-FEB7-46D6-A8A2-8018319BD2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4AF6908-FEB7-46D6-A8A2-8018319BD2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1155CCBF-8025-4D35-B375-F2FCF777C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1155CCBF-8025-4D35-B375-F2FCF777C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1155CCBF-8025-4D35-B375-F2FCF777C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1155CCBF-8025-4D35-B375-F2FCF777C193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95FCE08-BBAB-42D9-9B8B-893B80E858D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
